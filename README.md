@@ -4,6 +4,6 @@ We are constantly updating at this time to time.
 
 ## UV Map Lookup Table
 
-Our initial version of the UV map lookup table (256 pairs of MarChing topology and UV Map) is presented below.
+Our initial version of the UV map lookup table (256 pairs of Marching Cube topology and UV Map) is presented below.
 
 <img src="images/mcuvlut.png" width=800>
