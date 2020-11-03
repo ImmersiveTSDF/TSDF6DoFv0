@@ -12,6 +12,8 @@ Our initial version of the UV map lookup table (256 pairs of Marching Cube topol
 
 ## Waste-rate of Texture Space
 
+On average, 12.81% of texture space was not used for conventional UV texture maps, and 1.94% of space was not used for our texture maps.
+
 <p align="center">
   <img src="images/wasteratio.png" width=700 />
 </p>
