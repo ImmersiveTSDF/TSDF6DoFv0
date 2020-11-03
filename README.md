@@ -11,3 +11,7 @@ Our initial version of the UV map lookup table (256 pairs of Marching Cube topol
 </p>
 
 ## Waste-rate of Texture Space
+
+<p align="center">
+  <img src="images/wasteratio.png" width=700 />
+</p>
