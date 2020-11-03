@@ -17,3 +17,5 @@ On average, 12.81% of texture space was not used for conventional UV texture map
 <p align="center">
   <img src="images/wasteratio.png" width=700 />
 </p>
+
+## View-Dependent Texture Synthesis
