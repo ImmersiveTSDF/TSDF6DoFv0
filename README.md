@@ -22,10 +22,14 @@ On average, 12.81% of texture space was not used for conventional UV texture map
 
 <p float="left" align="center">
   <img src="images/syn_metals5x5.png" width="300" />
+  <em>image_caption</em>
   <img src="images/syn_showcase5x5.png" width="300" />
+  <em>image_caption</em>
 </p>
 
 <p float="left" align="center">
   <img src="images/syn_glasses5x5.png" width="300" />
+  <em>image_caption</em>
   <img src="images/syn_mirror5x5.png" width="300" />
+  <em>image_caption</em>
 </p>
