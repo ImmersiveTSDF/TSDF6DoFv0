@@ -20,26 +20,10 @@ On average, 12.81% of texture space was not used for conventional UV texture map
 
 ## View-Dependent Texture Synthesis
 
-<p align="center">
-  <em>Metal object in Room-Near scene</em>
-  <br>
-  <img src="images/syn_metals5x5.png" width="300" alt>
-</p>
+Our view-dependent textures rendered both specular effects and texture details well.
 
 <p align="center">
-  <em>Showcase in Room-Far scene</em>
-  <br>
-  <img src="images/syn_showcase5x5.png" width="300" alt>
+  <img src="images/syn_5x5.png" width="300" alt>
 </p>
 
-<p align="center">
-  <em>Glass in Restaurant-Near scene</em>
-  <br>
-  <img src="images/syn_glasses5x5.png" width="300" alt>
-</p>
 
-<p align="center">
-  <em>Mirror in Restaurant-Far scene</em>
-  <br>
-  <img src="images/syn_mirror5x5.png" width="300" alt>
-</p>
