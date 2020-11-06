@@ -21,6 +21,6 @@ On average, 12.81% of texture space was not used for conventional UV texture map
 ## View-Dependent Texture Synthesis
 
 <p>
-    <img src="images/syn_metals5x5.png" alt>
+    <img src="images/syn_metals5x5.png" width=700 alt>
     <em>Metal object in Room-Near scene</em>
 </p>
