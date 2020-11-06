@@ -23,7 +23,7 @@ On average, 12.81% of texture space was not used for conventional UV texture map
 Our view-dependent textures rendered both specular effects and texture details well.
 
 <p align="center">
-  <img src="images/syn_5x5.png" width="300" alt>
+  <img src="images/syn_5x5.png" width="700" />
 </p>
 
 
